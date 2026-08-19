@@ -2,10 +2,6 @@
 
 ![CAIMAX — Cognitive AI Market Experience](banner.jpg)
 
-# CAIMAX
-
-### Cognitive AI Market Experience
-
 **Real-time market sensing, AI-assisted decision intelligence and controlled execution — in one evolving platform.**
 
 </div>
@@ -455,9 +451,6 @@ A failed hypothesis is still useful evidence if it prevents the same mistake fro
 <div align="center">
 
 ![CAIMAX Logo](logo.jpg)
-
-## CAIMAX
-### Cognitive AI Market Experience
 
 **See. Remember. Understand. Decide. Execute. Learn.**
 
