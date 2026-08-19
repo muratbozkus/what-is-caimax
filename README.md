@@ -17,11 +17,11 @@
 
 ### Dark Interface
 
-![CAIMAX V3.1 Dark Desktop](assets/caimax-v31-dark.png)
+![CAIMAX V3.1 Dark Desktop](engd.png)
 
 ### Light Interface
 
-![CAIMAX V3.1 Light Desktop](assets/caimax-v31-light.png)
+![CAIMAX V3.1 Light Desktop](engl.png)
 
 ### Current Product Status
 
