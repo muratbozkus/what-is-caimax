@@ -1,5 +1,7 @@
 <div align="center">
 
+![CAIMAX — Cognitive AI Market Experience](banner.jpg)
+
 # CAIMAX
 
 ### Cognitive AI Market Experience
@@ -154,8 +156,6 @@ For example:
 
 Each family represents a different way of looking at the same market event.
 
-Examples include:
-
 ### Trend & Moving Average
 Direction, trend quality, moving-average structure, slope, spacing and trend persistence.
 
@@ -258,8 +258,6 @@ Users should eventually be able to control from the interface:
 - open positions,
 - history and reports.
 
-The principle is:
-
 > **Complex intelligence behind a clear interface.**
 
 ---
@@ -267,8 +265,6 @@ The principle is:
 # CAIMAX Product Profiles
 
 Users should not need to configure every sensor manually.
-
-Research-validated configurations can evolve into preset profiles such as:
 
 ### CAIMAX Scalp
 Short timeframes, faster momentum/trend assessment, liquidity, order flow and fast invalidation.
@@ -282,7 +278,7 @@ Higher-timeframe structure, regime, positioning, relative levels and broader mar
 ### Custom
 Advanced users can choose their own family and sensor combinations.
 
-CAIMAX is therefore intended to be a configurable market intelligence station — not a closed system built around one universal strategy.
+CAIMAX is intended to be a configurable market intelligence station — not a closed system built around one universal strategy.
 
 ---
 
@@ -305,7 +301,7 @@ Early versions established core ideas that later became part of the broader arch
 
 > V1 transformed early market-analysis experiments into a more structured and reproducible research architecture.
 
-**Historical screenshots will be added here.**
+Historical V1.x interface screenshots will be added here as part of the project evolution record.
 
 ---
 
@@ -332,17 +328,24 @@ V2 expanded the platform into a deeper historical research and backtesting envir
 
 At the V2.0 closure milestone, the project reported **2,158 tests, 2,125 passed, 33 documented environment-related skips and 0 failures** across the full project test suite.
 
-**Historical screenshots will be added here.**
-
 ---
 
 ## V3.0 — Product Integration
 
-**Where CAIMAX became one coherent product direction.**
+**Where CAIMAX became one coherent working product direction.**
 
 V3.0 focused on turning the strongest existing research and analysis capabilities into a coherent, demonstrable CAIMAX product architecture.
 
 **Status: COMPLETED** ✅
+
+### V3.0 Working Product View
+
+![CAIMAX V3.0 Working Product](v30term.jpg)
+
+> **This is a working CAIMAX product view from the V3.0 product line.**  
+> Some visible interface labels originate from earlier UI lineage and may not reflect the latest version number shown elsewhere in the project. The screenshot is included as evidence of the product’s real evolution from the earlier Analysis Station into the V3.1 desktop direction.
+
+The V3.0 product line represents the bridge between CAIMAX’s research/backtesting foundations and the new user-facing desktop experience.
 
 ---
 
@@ -402,8 +405,6 @@ Market Memory + Research Intelligence + Market State + Strategy Composition + Li
 
 # The Long-Term Direction
 
-A simple way to describe the evolution:
-
 > **V3 — CAIMAX sees and acts.**  
 > **V4 — CAIMAX remembers.**  
 > **V5 — CAIMAX learns how to research.**  
@@ -412,8 +413,6 @@ A simple way to describe the evolution:
 > **V8 — CAIMAX continuously reasons over live markets.**  
 > **V9 — CAIMAX understands execution quality.**  
 > **V10 — CAIMAX brings these capabilities together as a Cognitive Market Intelligence Platform.**
-
-Or even more simply:
 
 **Better Sensing → Better Understanding → Better Execution**
 
@@ -430,8 +429,6 @@ To develop CAIMAX through evidence-first research, reproducible experimentation,
 ---
 
 # Research Principles
-
-CAIMAX research follows several long-term principles:
 
 - **ONE MARKET PATH, MANY COMPETING HYPOTHESES**
 - **FAST DISCOVER, SLOW BELIEVE**
@@ -456,6 +453,8 @@ A failed hypothesis is still useful evidence if it prevents the same mistake fro
 ---
 
 <div align="center">
+
+![CAIMAX Logo](logo.jpg)
 
 ## CAIMAX
 ### Cognitive AI Market Experience
